@@ -25,3 +25,7 @@ There are 10000 different news stories and additional news stories.
 
 
 ### Use Case can be found [here](https://docs.google.com/document/d/1zDueu4PD7Nwj_7dxiXWyluaCejUx2fpI2ebWugNL39k/edit?usp=sharing).
+
+
+https://user-images.githubusercontent.com/95337849/227604177-368580bf-e63d-48c2-a5a3-b37d33c453cd.mp4
+
